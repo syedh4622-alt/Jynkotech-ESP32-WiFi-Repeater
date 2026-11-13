@@ -1,0 +1,23 @@
+# Build output / Arduino
+build/
+.pio/
+*.bin
+*.elf
+*.map
+*.hex
+*.uf2
+*.log
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Local secrets and device backups
+.env
+.env.*
+!*.example
+secrets.h
+credentials.h
+*.nvs
+*.nvs.bin
+*.backup
