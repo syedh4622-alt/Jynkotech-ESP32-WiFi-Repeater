@@ -1,6 +1,6 @@
 # JYNKOTECH | ESP32 Wi-Fi Repeater
 
-![Jynkotech official logo](assets/jynkotech-logo.png)
+![Jynkotech official logo](jynkotech-logo.png)
 
 **Industrial Automation • Embedded Systems • IoT**  
 **Website:** https://www.jynkotech.com/  
